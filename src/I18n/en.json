@@ -22,6 +22,33 @@
             "sectiontwo": {
                 "one": "Inspiration Collection",
                 "two": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+            },
+            "sectionthree": {
+                "one": "Why Choose Us",
+                "two": "Donec mattis porta eros, aliquet finibus risus interdum at. Nulla vivethe as it was for us to know what was to be done. the",
+                "three": "Fast  & Free Shipping ",
+                "four": "Donec mattis porta eros, aliquet finibus risus interdum at. Nulla vivethe as it was",
+                "five": "Easy to Shop",
+                "six": "24/7 Support",
+                "seven": "Hassle Free Returns"
+            },
+            "cliyent": {
+                "one": "Our customers opinions",
+                "two": "Our customers opinions speak volumes about our services and the services of our doctors. Everyone who uses our services is satisfied and happy.",
+                "three": "Really impressed with the furniture store! Great selection and great quality. The staff were friendly and helpful. Will definitely recommend to friends!",
+                "four": "I would like to express my satisfaction with the furniture store. The wide range of high quality products exceeded my expectations. Polite and knowledgeable staff provided excellent support. I will confidently recommend this institution to my colleagues and acquaintances.",
+                "five": "I was thrilled with my recent experience at a furniture store! 🌟 The variety and quality are high. Thanks to the friendly staff for their help. I recommend!",
+                "six": "Our services",
+                "seven": "made people happy"
+            },
+            "footer": {
+                "one": "Bringing comfort and style to the home.",
+                "two": "Services",
+                "three": "About Us",
+                "four": "Privacy and security",
+                "five": "Support",
+                "six": "Contact number",
+                "seven": "Our social networks"
             }
         }
     }

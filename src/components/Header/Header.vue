@@ -4,7 +4,7 @@
             <div class="w-1/3 lg:w-1/5 xl:w-1/3">
                 <img src="../../assets/images/mebelLogo.svg" alt="LOGO" class="w-[60px] lg:w-[100px]">
             </div>
-            <div class="hidden lg:flex items-center gap-6 font-[700] text-[18px] font-mont">
+            <div class="hidden lg:flex items-center gap-6 font-[700] xl:text-[18px] font-mont">
                 <router-link to="#" class="hover:bg-gray-300 px-2 xl:px-2 py-1 rounded-lg">{{$t('translation.navbar.one')}}</router-link>
                 <router-link to="#" class="hover:bg-gray-300 px-2 xl:px-2 py-1 rounded-lg">{{$t('translation.navbar.two')}}</router-link>
                 <router-link to="#" class="hover:bg-gray-300 px-2 xl:px-2 py-1 rounded-lg">{{$t('translation.navbar.three')}}</router-link>

@@ -22,6 +22,33 @@
             "sectiontwo": {
                 "one": "Ijodiy to'plam",
                 "two": "Mijoz juda muhim, mijozni mijoz kuzatib boradi."
+            },
+            "sectionthree": {
+                "one": "Nima uchun bizni tanlaysiz",
+                "two": "Yerning darvozasigacha yuk mashinalari ba'zan chegaralarda kuladi. Biz nima qilishimiz kerakligini bilishimiz mumkin emas edi.",
+                "three": "Tez & bepul yetkazib berish",
+                "four": "Erning darvozasigacha yuk mashinalari ba'zan chegaralarda kuladi. Avvalgidek tirik emas",
+                "five": "Oson xarid qilish",
+                "six": "24/7 qo'llab-quvvatlash",
+                "seven": "Muammosiz qaytarish"
+            },
+            "cliyent": {
+                "one": "Bizning mijozlarimiz fikrlari",
+                "two": "Bizning mijozlarimiz fikrlari bizning xizmatlarimiz va shifokorlar xizmatlari haqida so’zlaydi. Xizmatlarimizdan foydalangan har bir odam mamnun va xursand.",
+                "three": "Mebel do'koni haqiqatan ham hayratda qoldi! Keng tanlov va sifat ajoyib. Xodimlar samimiy va foydali edi. Do'stlaringizga albatta tavsiya qilaman!",
+                "four": "Men mebel do'konidan mamnunligimni bildirmoqchiman. Yuqori sifatli mahsulotlarning keng assortimenti mening kutganimdan ham oshib ketdi. Xushmuomala va bilimdon xodimlar ajoyib yordam ko'rsatdilar. Men ushbu muassasani hamkasblarim va tanishlarimga ishonch bilan tasdiqlayman.",
+                "five": "Yaqinda mebel do'konidagi tajribamdan hayajonlandim! 🌟 Xilma-xilligi va sifati yuqori darajada. Yordam uchun samimiy xodimlarga rahmat. Tavsiya qilaman!",
+                "six": "Xizmatlarimiz",
+                "seven": "odamlarni xursand qilgan"
+            },
+            "footer": {
+                "one": "Uyga qulaylik va uslubni olib kelish.",
+                "two": "Xizmatlar",
+                "three": "Biz haqimizda",
+                "four": "Maxfiylik va xavfsizlik",
+                "five": "Qo’llab quvvatlash",
+                "six": "Aloqa raqami",
+                "seven": "Ijtimoiy tarmoqlarimiz"
             }
         }
     }

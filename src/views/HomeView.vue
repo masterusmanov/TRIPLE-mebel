@@ -1,5 +1,7 @@
 <script setup>
-    import SectionTwo from '../components/SectionTwo/SectionTwo.vue'
+    import SectionThree from '../components/SectionThree/SectionThree.vue';
+    import SectionTwo from '../components/SectionTwo/SectionTwo.vue';
+    import CliyentOne from '../components/Cliyent/CliyentOne.vue'
 </script>
 
 <template>
@@ -14,7 +16,7 @@
                 </div>
             </div>
             <img src="../assets/images/mainbg.png" alt="" class="">
-            <div class="grid items-center gap-6 md:gap-9 lg:gap-[100px] 2xl:gap-[170px] md:flex py-[34px] justify-between xl:w-[95%] mx-auto">
+            <div class="grid items-center gap-6 md:gap-9 md:px-2 lg:px-0 lg:gap-[100px] 2xl:gap-[170px] md:flex py-[34px] justify-between xl:w-[95%] mx-auto">
                 <div class="flex items-center gap-3 xl:gap-4 px-4 md:px-0">
                     <img src="../assets/images/main1/1.svg" alt="Delivery" class="w-[48px] md:w-[40px] lg:w-[56px]">
                     <div class="font-mont">
@@ -40,6 +42,8 @@
         </div>
     </main>
     <SectionTwo/>
+    <SectionThree/>
+    <CliyentOne/>
 </template>
 
 <style scoped>
