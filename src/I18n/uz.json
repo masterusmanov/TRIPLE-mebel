@@ -1,0 +1,28 @@
+{
+    "translation": {
+        "language": "O'zbekcha",
+        "navbar": {
+            "one": "Bosh sahifa",
+            "two": "Xizmatlar",
+            "three": "Portfolio",
+            "four": "Kontakt",
+            "five": "Biz haqimizda"
+        },
+        "main": {
+            "one": "Yangi kelgan",
+            "two": "Bizning yangi kolleksiyamiz bilan tanishing",
+            "three": "Mijoz juda muhim, mijozni mijoz kuzatib boradi. Yer egasi sifatida motam tutib, mulkni qamab qo‘ymaydi.",
+            "four": "HOZIR XARID QILISH",
+            "delivery": {
+                "one": "Bepul yetkazib berish",
+                "two": "Xaridor juda xursand.",
+                "three": "24/7 qo'llab-quvvatlash",
+                "four": "100% Haqiqiy"
+            },
+            "sectiontwo": {
+                "one": "Ijodiy to'plam",
+                "two": "Mijoz juda muhim, mijozni mijoz kuzatib boradi."
+            }
+        }
+    }
+}

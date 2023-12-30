@@ -1,0 +1,28 @@
+{
+    "translation": {
+        "language": "English",
+        "navbar": {
+            "one": "Home page",
+            "two": "Services",
+            "three": "Portfolio",
+            "four": "Contact",
+            "five": "About us"
+        },
+        "main": {
+            "one": "New Arrival",
+            "two": "Discover Our New Collection",
+            "three": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis.",
+            "four": "BUY NOW",
+            "delivery": {
+                "one": "Free Delivery",
+                "two": "Lorem ipsum dolor sit amet.",
+                "three": "Support 24/7",
+                "four": "100% Authentic"
+            },
+            "sectiontwo": {
+                "one": "Inspiration Collection",
+                "two": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+            }
+        }
+    }
+}
