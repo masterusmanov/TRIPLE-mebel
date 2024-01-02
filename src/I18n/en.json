@@ -50,6 +50,18 @@
                 "six": "Contact number",
                 "seven": "Our social networks"
             }
+        },
+        "contact": {
+            "one": "Contact information",
+            "two": "Uzbekistan, Tashkent, Street, 1A",
+            "three": "Your name",
+            "four": "Your email address",
+            "five": "Write your message",
+            "six": "Sending"
+        },
+        "services": {
+            "one": "Discover the perfect furniture tailored to your unique needs and preferences",
+            "two": "Elevate your spaces with our curated selection of bespoke furniture, meticulously crafted for offices, hotels, kitchens, and bedrooms. Tailor your pieces with a choice of premium materials and high-quality spare parts, and discover a world where sophistication meets functionality—all while enjoying a transparent and personalized pricing experience."
         }
     }
 }

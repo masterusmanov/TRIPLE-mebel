@@ -42,7 +42,7 @@
                 "seven": "odamlarni xursand qilgan"
             },
             "footer": {
-                "one": "Uyga qulaylik va uslubni olib kelish.",
+                "one": "Uyga qulaylik va uslubni olib keling.",
                 "two": "Xizmatlar",
                 "three": "Biz haqimizda",
                 "four": "Maxfiylik va xavfsizlik",
@@ -50,6 +50,18 @@
                 "six": "Aloqa raqami",
                 "seven": "Ijtimoiy tarmoqlarimiz"
             }
+        },
+        "contact": {
+            "one": "Bog’lanish uchun ma’lumotlar",
+            "two": "O‘zbekiston, Toshkent, Ko‘cha, 1A",
+            "three": "Ismingiz",
+            "four": "Email manzilingiz",
+            "five": "Xabaringizni yozing",
+            "six": "Yuborish"
+        },
+        "services": {
+            "one": "Sizning noyob ehtiyojlaringiz va afzalliklaringizga moslashtirilgan mukammal mebellarni kashf eting",
+            "two": "Ofislar, mehmonxonalar, oshxonalar va yotoq xonalari uchun sinchkovlik bilan ishlab chiqilgan buyurtma asosidagi mebellar tanlovimiz bilan bo‘sh joyingizni to‘ldiring. O'zingizning buyumlaringizni yuqori sifatli materiallar va yuqori sifatli ehtiyot qismlar tanlovi bilan moslang va shaffof va moslashtirilgan narxlash tajribasidan bahramand bo'lish bilan birga, murakkablik funksionallikka mos keladigan dunyoni kashf eting."
         }
     }
 }

@@ -6,7 +6,7 @@
 
 <template>
   <Header/>
-  <HomeView/>
+  <router-view></router-view>
   <Footer/>
 </template>
 

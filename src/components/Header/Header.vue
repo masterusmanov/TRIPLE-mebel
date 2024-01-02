@@ -5,12 +5,12 @@
                 <img src="../../assets/images/mebelLogo.svg" alt="LOGO" class="w-[60px] lg:w-[100px]">
             </div>
             <div class="hidden lg:flex items-center gap-6 font-[700] xl:text-[18px] font-mont">
-                <router-link to="#" class="hover:bg-gray-300 px-2 xl:px-2 py-1 rounded-lg">{{$t('translation.navbar.one')}}</router-link>
-                <router-link to="#" class="hover:bg-gray-300 px-2 xl:px-2 py-1 rounded-lg">{{$t('translation.navbar.two')}}</router-link>
+                <router-link to="/" class="hover:bg-gray-300 px-2 xl:px-2 py-1 rounded-lg">{{$t('translation.navbar.one')}}</router-link>
+                <router-link to="/services  " class="hover:bg-gray-300 px-2 xl:px-2 py-1 rounded-lg">{{$t('translation.navbar.two')}}</router-link>
                 <router-link to="#" class="hover:bg-gray-300 px-2 xl:px-2 py-1 rounded-lg">{{$t('translation.navbar.three')}}</router-link>
-                <router-link to="#" class="hover:bg-gray-300 px-2 xl:px-2 py-1 rounded-lg">{{$t('translation.navbar.four')}}</router-link>
+                <router-link to="/contact" class="hover:bg-gray-300 px-2 xl:px-2 py-1 rounded-lg">{{$t('translation.navbar.four')}}</router-link>
                 <router-link to="#" class="hover:bg-gray-300  px-2 xl:px-2 py-1 rounded-lg">{{$t('translation.navbar.five')}}</router-link>
-                <select id="countries" @change="changeLanguage" class=" bg-gray-300 px-2 py-1 border-none text-md rounded-lg ml-[50px] font-mont">
+                <select id="countries" @change="changeLanguage" class=" bg-gray-300 px-2 py-3 border-none text-md rounded-lg ml-[50px] font-mont">
                     <option  class="hidden" value="til" :selected="selectedLanguage === 'uz'">{{$t('translation.language')}}</option>
                     <option value="uz">O'zbekcha</option>
                     <option value="ru">Русский</option>
@@ -34,7 +34,7 @@
                             <router-link to="/portfolio" class="block px-4 py-2">{{$t('translation.navbar.three')}}</router-link>
                         </li>
                         <li>
-                            <router-link to="/about" class="block px-4 py-2">{{$t('translation.navbar.four')}}</router-link>
+                            <router-link to="/contact" class="block px-4 py-2">{{$t('translation.navbar.four')}}</router-link>
                         </li>
                         <li>
                             <p class="block px-4 py-2">{{ $t('translation.navbar.five') }}</p>
